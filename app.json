@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Overload",
+    "slug": "overload-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "platforms": ["web"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "Overload — Workout Tracker",
+      "shortName": "Overload",
+      "themeColor": "#10b981",
+      "backgroundColor": "#000000"
+    },
+    "experiments": {
+      "baseUrl": "/overload-tracker"
+    },
+    "plugins": ["expo-status-bar"]
+  }
+}
